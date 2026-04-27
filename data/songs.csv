@@ -1,0 +1,19 @@
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
+s01,Sunrise City,Lila Vance,pop,happy,0.85,124,0.82,0.78,0.12
+s02,Midtown Pulse,Neon Avenue,pop,energetic,0.88,128,0.74,0.81,0.08
+s03,Gym Hero,Max Power,pop,energetic,0.95,140,0.70,0.83,0.05
+s04,Library Rain,Soft Static,lofi,calm,0.30,72,0.45,0.42,0.78
+s05,Late Night Pages,Slow Tide,lofi,melancholic,0.28,68,0.30,0.38,0.84
+s06,Coffee Steam,Soft Static,lofi,calm,0.32,75,0.50,0.45,0.80
+s07,Storm Runner,Iron Echo,rock,intense,0.92,150,0.55,0.65,0.10
+s08,Temple of Sparks,Iron Echo,rock,intense,0.90,148,0.40,0.62,0.12
+s09,Highway Ghost,Black Mile,rock,melancholic,0.70,118,0.32,0.55,0.20
+s10,Galaxy Threads,Pulse Theory,electronic,energetic,0.86,126,0.68,0.85,0.06
+s11,Deep Ocean Dub,Pulse Theory,electronic,calm,0.55,110,0.50,0.70,0.18
+s12,Neon Vector,Bit Forge,electronic,intense,0.88,138,0.48,0.78,0.08
+s13,Acoustic Letter,June Hollow,folk,melancholic,0.35,82,0.28,0.40,0.92
+s14,Field of Pines,June Hollow,folk,calm,0.38,86,0.55,0.45,0.88
+s15,Harbor Lights,Coastal Birds,folk,happy,0.50,94,0.72,0.55,0.75
+s16,Velvet Hour,Ash Quartet,jazz,calm,0.45,90,0.60,0.58,0.65
+s17,Smoke and Brass,Ash Quartet,jazz,melancholic,0.42,88,0.35,0.52,0.70
+s18,Sunday Swing,Lila Vance,jazz,happy,0.55,108,0.78,0.68,0.55
