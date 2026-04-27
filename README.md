@@ -144,11 +144,25 @@ falls back to the template generator if the API call fails.
 
 ## Run
 
+### Demo Video
+
+[Watch the Loom walkthrough](https://www.loom.com/share/fad2c6977dbe48849c6b068886d54ef6)
+
 ### End-to-end demo (5 profiles)
 
 ```bash
 python demo.py
 ```
+
+### Interactive Streamlit app
+
+```bash
+streamlit run streamlit_app.py
+```
+
+Opens a browser UI where you can pick a preset or build a custom profile,
+tune `top_k` / `retrieve_k`, and see each recommendation with its score,
+explanation, citations, and grounded/fallback badge in real time.
 
 ### Single profile via CLI
 
