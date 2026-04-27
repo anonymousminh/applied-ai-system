@@ -1,0 +1,37 @@
+[
+  {
+    "name": "High-Energy Pop",
+    "favorite_genre": "pop",
+    "favorite_mood": "energetic",
+    "target_energy": 0.9,
+    "likes_acoustic": false
+  },
+  {
+    "name": "Chill Lofi",
+    "favorite_genre": "lofi",
+    "favorite_mood": "calm",
+    "target_energy": 0.3,
+    "likes_acoustic": true
+  },
+  {
+    "name": "Deep Intense Rock",
+    "favorite_genre": "rock",
+    "favorite_mood": "intense",
+    "target_energy": 0.9,
+    "likes_acoustic": false
+  },
+  {
+    "name": "Edge: High Energy + Sad Mood",
+    "favorite_genre": "pop",
+    "favorite_mood": "melancholic",
+    "target_energy": 0.85,
+    "likes_acoustic": false
+  },
+  {
+    "name": "Edge: K-Pop (not in catalog)",
+    "favorite_genre": "kpop",
+    "favorite_mood": "energetic",
+    "target_energy": 0.8,
+    "likes_acoustic": false
+  }
+]
